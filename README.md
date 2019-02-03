@@ -16,3 +16,5 @@
 * If user close the window, conversations and usernames will still exist in Session and localStorage.
 
 * My Personal touch is - Users can send Message Privately.
+
+* Quick Walkthrough - https://www.youtube.com/watch?v=WYgAIy-sb4w
