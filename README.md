@@ -1,4 +1,4 @@
-# Project 2 - Flack
+# Project 2 - Flack (Inspired by Slack)
 
 ## Web Programming with Python and JavaScript
 ### Provided by Harvard University (HarvardX)
